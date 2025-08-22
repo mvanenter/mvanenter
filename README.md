@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A [Your Profession] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Melanie! </h1>
+<h3 align="center">A GIS Consultant from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvanenter&label=Profile%20views&color=0e75b6&style=flat" alt="mvanenter" /> </p>
 
