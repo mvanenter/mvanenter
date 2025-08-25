@@ -19,55 +19,55 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+  <!-- ArcGIS -->
+  <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">
+    <img src="https://github.com/mvanenter/mvanenter/blob/main/ArcGIS.png?raw=true" alt="ArcGIS" width="40" height="40"/>
+  </a>
+
+  <!-- QGIS -->
+  <a href="https://qgis.org/en/site/" target="_blank">
+    <img src="https://github.com/mvanenter/mvanenter/blob/main/QGIS.png?raw=true" alt="QGIS" width="40" height="40"/>
+  </a>
+
+  <!-- Leaflet -->
+  <a href="https://leafletjs.com/" target="_blank">
+    <img src="https://github.com/mvanenter/mvanenter/blob/main/Leaflet.png?raw=true" alt="Leaflet" width="40" height="40"/>
+  </a>
+
+  <!-- Google Earth Engine -->
+  <a href="https://earthengine.google.com/" target="_blank">
+    <img src="https://github.com/mvanenter/mvanenter/blob/main/Google%20earth%20engine.png?raw=true" alt="Google Earth Engine" width="40" height="40"/>
+  </a>
+
+  <!-- Mapbox -->
+  <a href="https://www.mapbox.com/" target="_blank">
+    <img src="https://github.com/mvanenter/mvanenter/blob/main/mapbox-logo-png_seeklogo-444116.png?raw=true" alt="Mapbox" width="40" height="40"/>
+  </a>
+
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
 
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
-  <!-- ArcGIS -->
-  <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer">
-    <img src="https://www.arcgis.com/sharing/rest/content/items/8d6e16c8f8474040a7f84f8c472b5c7c/info/thumbnail/ArcGIS.png" alt="ArcGIS" width="40" height="40"/>
-  </a>
-
-  <!-- QGIS -->
-  <a href="https://qgis.org/en/site/" target="_blank" rel="noreferrer">
-    <img src="https://qgis.org/images/logo/qgis_logo.png" alt="QGIS" width="40" height="40"/>
-  </a>
-
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <!-- Mapbox -->
-  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapbox_logo_2019.svg" alt="Mapbox" width="40" height="40"/>
-  </a>
-
-  <!-- Leaflet -->
-  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://leafletjs.com/docs/images/logo-icon.png" alt="Leaflet" width="40" height="40"/>
-  </a>
-
-  <!-- Google Earth Engine -->
-  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://developers.google.com/earth-engine/images/earth-engine-icon.png" alt="Google Earth Engine" width="40" height="40"/>
   </a>
 </p>
 
@@ -86,3 +86,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mvanenter&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </p>
+
