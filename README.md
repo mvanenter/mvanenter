@@ -42,12 +42,12 @@
 
   <!-- ArcGIS -->
   <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ArcGIS_logo.svg/1024px-ArcGIS_logo.svg.png" alt="ArcGIS" width="40" height="40"/>
+    <img src="https://www.arcgis.com/sharing/rest/content/items/8d6e16c8f8474040a7f84f8c472b5c7c/info/thumbnail/ArcGIS.png" alt="ArcGIS" width="40" height="40"/>
   </a>
 
   <!-- QGIS -->
   <a href="https://qgis.org/en/site/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Qgis_logo.svg" alt="QGIS" width="40" height="40"/>
+    <img src="https://qgis.org/images/logo/qgis_logo.png" alt="QGIS" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -62,26 +62,26 @@
 
   <!-- Leaflet -->
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://leafletjs.com/docs/images/leaflet-logo.png" alt="Leaflet" width="40" height="40"/>
+    <img src="https://leafletjs.com/docs/images/logo-icon.png" alt="Leaflet" width="40" height="40"/>
   </a>
 
   <!-- Google Earth Engine -->
   <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Google_Earth_Engine_logo.png" alt="Google Earth Engine" width="40" height="40"/>
+    <img src="https://developers.google.com/earth-engine/images/earth-engine-icon.png" alt="Google Earth Engine" width="40" height="40"/>
   </a>
 </p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mvanenter&show_icons=true&locale=en&theme=transparent&hide_border=true&bg_color=00000000" alt="GitHub stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvanenter&theme=transparent&hide_border=true&background=00000000" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mvanenter&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
