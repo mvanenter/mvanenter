@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melanie!</h1>
 
-<h3 align="center"> I am a GIS Consultant and a cartographer enthusiast with a huge love for Python and Data Visualisation, and learning about Node.js, REST API, GDAL,  </h3>
+<h3 align="center"> I am a geospatial consultant and a cartographer enthusiast with a huge love for Python and Data Visualisation, and learning about Node.js, REST API, GDAL,  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mvanenter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 - 👯 I'm looking to collaborate on GIS-related projects  
 - 💬 Ask me about GIS projects  
 - 📫 How to reach me: <a href="mailto:melvanenter@gmail.com">melvanenter@gmail.com</a>  
-this
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mvanenter" target="_blank">
