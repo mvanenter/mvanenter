@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+  <defs>
+    <!-- Deep Core Dark Gradient -->
+    <linearGradient id="deep-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="60%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <!-- Geographic Accent Glow (Teal/Mint) -->
+    <linearGradient id="geo-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#a7f3d0"/>
+    </linearGradient>
+    
+    <!-- Red Accent for Map Pin -->
+    <linearGradient id="pin-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+
+    <!-- Map Pin Symbol -->
+    <symbol id="icon-pin" viewBox="0 0 24 24">
+      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+    </symbol>
+
+    <!-- CSS Animations -->
+    <style>
+      @keyframes floatIn {
+        from { opacity: 0; transform: translateY(15px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pinDrop {
+        0% { opacity: 0; transform: translateY(-30px) rotate(10deg); }
+        80% { transform: translateY(5px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      
+      .stagger-in { animation: floatIn 0.7s ease-out forwards; opacity: 0; }
+      .stagger-1 { animation-delay: 0.2s; }
+      .stagger-2 { animation-delay: 0.4s; }
+      .stagger-3 { animation-delay: 0.6s; }
+      .pindrop { animation: pinDrop 0.8s ease-out forwards; opacity: 0; animation-delay: 0.7s;}
+
+      .avatar-glow { transition: opacity 0.5s ease; }
+      .avatar-group:hover .avatar-glow { opacity: 0.6; }
+    </style>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1200" height="360" fill="url(#deep-gradient)"/>
+
+  <!-- Left Side: Avatar & Location Badge -->
+  <g transform="translate(70, 65)" class="avatar-group" cursor="pointer">
+    <!-- Hover Glow -->
+    <circle cx="90" cy="90" r="100" fill="#2dd4bf" opacity="0.1" filter="blur(30px)" class="avatar-glow"/>
+    
+    <!-- Outer Ring -->
+    <circle cx="90" cy="90" r="90" fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.8"/>
+    
+    <!-- Avatar Image -->
+    <defs>
+      <clipPath id="circle-clip">
+        <circle cx="90" cy="90" r="85" />
+      </clipPath>
+    </defs>
+    <image href="image_a71fdd.jpg" x="5" y="5" width="170" height="170" clip-path="url(#circle-clip)"/>
+    
+    <!-- Location Tag -->
+    <g transform="translate(10, 200)" class="stagger-in stagger-3">
+        <rect width="160" height="34" rx="17" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+        <text x="80" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#94a3b8" text-anchor="middle">Canterbury, NZ</text>
+    </g>
+  </g>
+
+  <!-- Center Content: Main Info -->
+  <g transform="translate(320, 95)">
+    <!-- Name -->
+    <text x="0" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#f8fafc" class="stagger-in stagger-1" letter-spacing="-0.5">
+      Melanie van Enter
+    </text>
+
+    <!-- Single Title -->
+    <text x="0" y="85" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="url(#geo-accent)" class="stagger-in stagger-2" letter-spacing="1">
+      Geospatial Specialist
+    </text>
+
+    <!-- Subtitle/Tagline -->
+    <text x="0" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#94a3b8" class="stagger-in stagger-3">
+      Automating pipelines, wrangling data, and building beautiful,
+      <tspan x="0" dy="26">readable maps from open spatial data.</tspan>
+    </text>
+  </g>
+
+  <!-- Right Side: Topography Graphic & Pin -->
+  <g transform="translate(870, 45)" class="pindrop">
+    <!-- Topo Rings -->
+    <path d="M 120 40 Q 180 0, 240 60 Q 300 120, 240 180 Q 180 240, 120 180 Q 60 120, 120 40 Z" fill="none" stroke="#2dd4bf" stroke-width="1.2" opacity="0.35"/>
+    <path d="M 130 60 Q 180 30, 230 70 Q 270 120, 230 170 Q 180 210, 130 170 Q 90 120, 130 60 Z" fill="none" stroke="#2dd4bf" stroke-width="1" opacity="0.2"/>
+    <path d="M 140 80 Q 180 60, 210 90 Q 240 120, 210 160 Q 180 190, 140 160 Q 110 120, 140 80 Z" fill="none" stroke="#a7f3d0" stroke-width="0.8" opacity="0.25"/>
+    
+    <!-- Red Pin -->
+    <use href="#icon-pin" x="145" y="80" width="40" height="40" fill="url(#pin-gradient)"/>
+  </g>
+</svg>
