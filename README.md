@@ -8,6 +8,18 @@ GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spat
 
 My work sits where geospatial analysis meets software. I automate data cleaning with Python, wrangle messy GIS data into clean schemas, and put the results on the web. I care about maps that are accurate, readable, and useful.
 
+## About Me
+
+☕ `Powered by coffee, ideally a mocha.`
+
+🐾 `Boxer mum to Juniper, my velcro shadow`
+
+📚 `Always halfway through a good nonfiction book`
+
+🥾 `Happiest outdoors with a map and no fixed plan`
+
+✈️ `Slowly planning a big trip through Europe one day`
+
 ## Tech I work with
 
 **GIS and spatial data**
