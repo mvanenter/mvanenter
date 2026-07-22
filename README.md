@@ -6,7 +6,7 @@
 
 GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spatial data into pipelines, web maps, and tools people can actually use.
 
-My work sits where geospatial analysis meets software. I build Python ETL pipelines, wrangle messy GIS data into clean schemas, and put the results on the web. I care about maps that are accurate, readable, and useful.
+My work sits where geospatial analysis meets software. I automate data cleaning with Python, wrangle messy GIS data into clean schemas, and put the results on the web. I care about maps that are accurate, readable, and useful.
 
 ## Tech I work with
 
