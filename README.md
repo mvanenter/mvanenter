@@ -56,18 +56,6 @@ Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST 
 - LinkedIn: https://linkedin.com/in/mvanenter
 
 
-
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvanenter&show_icons=true&locale=en&theme=transparent&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvanenter&theme=transparent&hide_border=true&background=00000000" alt="GitHub streak" />
-</p>
-
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mvanenter&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
