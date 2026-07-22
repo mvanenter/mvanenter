@@ -1,5 +1,9 @@
 # Kia ora 👋 I'm Melanie
 
+<p align="center">
+  <img src="./assets/melanie-banner.png" alt="Melanie van Enter, GIS and geospatial specialist" width="100%">
+</p>
+
 GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spatial data into pipelines, web maps, and tools people can actually use.
 
 My work sits where geospatial analysis meets software. I build Python ETL pipelines, wrangle messy GIS data into clean schemas, and put the results on the web. I care about maps that are accurate, readable, and useful.
