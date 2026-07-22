@@ -1,14 +1,56 @@
-<h1 align="center">Hi 👋, I'm Melanie!</h1>
+# Kia ora 👋 I'm Melanie
 
-<h3 align="center"> I am a Geospatial Nerd and a Cartographer Enthusiast with a huge love for Python and Data Visualisation, and learning about Node.js, REST API, and GDAL. </h3>
+GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spatial data into pipelines, web maps, and tools people can actually use.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mvanenter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-- 🌱 I'm currently learning Python, HTML, CSS, JavaScript, and other coding skills  
-- 👯 I'm looking to collaborate on GIS-related projects  
-- 💬 Ask me about GIS projects  
-- 📫 How to reach me: <a href="mailto:melvanenter@gmail.com">melvanenter@gmail.com</a>  
+My work sits where geospatial analysis meets software. I build Python ETL pipelines, wrangle messy GIS data into clean schemas, and put the results on the web. I care about maps that are accurate, readable, and useful.
+
+## Tech I work with
+
+**GIS and spatial data**
+
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-4A9E5C?style=for-the-badge&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logoColor=white)
+![NetCDF](https://img.shields.io/badge/NetCDF-0B5394?style=for-the-badge&logoColor=white)
+
+**Web mapping and front end**
+
+![MapLibre GL JS](https://img.shields.io/badge/MapLibre%20GL%20JS-396CB2?style=for-the-badge&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Data and cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logoColor=white)
+
+## What I'm building
+
+**[spatial-sql-for-councils](https://github.com/mvanenter/spatial-sql-for-councils)**
+PostGIS spatial analysis queries built on real Christchurch City Council and LINZ open data, all in EPSG:2193.
+
+**[nz-map-palettes](https://github.com/mvanenter/nz-map-palettes)**
+A live colour palette explorer for New Zealand territorial authority maps.
+
+**Christchurch street slope map** (in progress)
+A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slope with Horn's method, no server round trips required.
+
+## Right now
+
+Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST APIs. Always keen to collaborate on GIS and open-data projects.
+
+## Get in touch
+
+- Email: melvanenter@gmail.com
+- LinkedIn: [add your link here]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
