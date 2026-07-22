@@ -54,10 +54,3 @@ Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST 
 
 - Email: melvanenter@gmail.com
 - LinkedIn: https://linkedin.com/in/mvanenter
-
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mvanenter&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</p>
-
