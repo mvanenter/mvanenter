@@ -1,8 +1,8 @@
 # Kia ora 👋 I'm Melanie
 
 <p align="center">
-  <img src="./assets/melanie-banner.png" alt="Melanie van Enter, GIS and geospatial specialist" width="100%">
-</p>
+  <<img src="./melanie-banner.svg" alt="Melanie van Enter, GIS and geospatial specialist" width="100%">>
+</p> 
 
 GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spatial data into pipelines, web maps, and tools people can actually use.
 
