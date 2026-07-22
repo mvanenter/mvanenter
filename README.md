@@ -50,7 +50,8 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
 
 Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST APIs. Always keen to collaborate on GIS and open-data projects.
 
-## Get in touch
+## Find me around the web 🌏
 
-- Email: melvanenter@gmail.com
-- LinkedIn: https://linkedin.com/in/mvanenter
+- Sharing GIS work and open-data maps on [LinkedIn](add-your-link) 💼
+- Building web maps and portfolio projects here on [GitHub](https://github.com/mvanenter) 🗺️
+- Shipping small apps like [Spice and Herb Cabinet](add-your-link) and [Wine and Whiskey Cabinet](add-your-link) 🌶️
