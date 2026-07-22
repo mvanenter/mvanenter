@@ -49,7 +49,7 @@ Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST 
 ## Get in touch
 
 - Email: melvanenter@gmail.com
-- LinkedIn: [add your link here]
+- LinkedIn: https://linkedin.com/in/mvanenter
 
 
 <h3 align="left">Connect with me:</h3>
