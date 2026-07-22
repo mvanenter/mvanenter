@@ -1,8 +1,8 @@
 # Kia ora 👋 I'm Melanie
 
 <p align="center">
-  <<img src="./melanie-banner.svg" alt="Melanie van Enter, GIS and geospatial specialist" width="100%">>
-</p> 
+  <img src="./melanie-banner.png" alt="Melanie van Enter, GIS and geospatial specialist" width="100%">
+</p>
 
 GIS and geospatial specialist based in Canterbury, New Zealand. I turn open spatial data into pipelines, web maps, and tools people can actually use.
 
@@ -66,4 +66,4 @@ Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST 
 
 - Sharing GIS work and open-data maps on [LinkedIn](https://www.linkedin.com/in/melvanenter/) 💼
 - Building web maps and portfolio projects here on [GitHub](https://github.com/mvanenter) 🗺️
-- Shipping small apps like [Spice and Herb Cabinet]([add-your-link](https://fascinating-pika-7e6020.netlify.app/)) and [Wine and Whiskey Cabinet]([add-your-link](https://dreamy-flan-b440da.netlify.app/)) 🌶️
+- Shipping small apps like [Spice and Herb Cabinet](https://fascinating-pika-7e6020.netlify.app/) and [Wine and Whiskey Cabinet](https://dreamy-flan-b440da.netlify.app/) 🌶️
