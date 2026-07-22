@@ -52,6 +52,6 @@ Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST 
 
 ## Find me around the web 🌏
 
-- Sharing GIS work and open-data maps on [LinkedIn](add-your-link) 💼
+- Sharing GIS work and open-data maps on [LinkedIn](https://www.linkedin.com/in/melvanenter/) 💼
 - Building web maps and portfolio projects here on [GitHub](https://github.com/mvanenter) 🗺️
 - Shipping small apps like [Spice and Herb Cabinet]([add-your-link](https://fascinating-pika-7e6020.netlify.app/)) and [Wine and Whiskey Cabinet]([add-your-link](https://dreamy-flan-b440da.netlify.app/)) 🌶️
