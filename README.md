@@ -59,6 +59,31 @@ A live colour palette explorer for New Zealand territorial authority maps.
 **Christchurch street slope map** (in progress)
 A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slope with Horn's method, no server round trips required.
 
+## Snapshot of my portfolio
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/croatia-relief.png" alt="Croatia relief map rendered in Blender" width="100%">
+      <p align="center"><b>Croatia Relief Map</b><br>Blender + Copernicus GLO-30 DEM</p>
+    </td>
+    <td width="50%">
+      <img src="assets/steepest-streets.png" alt="Christchurch steepest streets analysis" width="100%">
+      <p align="center"><b>How Steep Is Your Street</b><br>ArcGIS Pro + LINZ 1m LiDAR</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/spatial-sql.png" alt="Spatial SQL for councils" width="100%">
+      <p align="center"><b>Spatial SQL for Councils</b><br>PostGIS query reference</p>
+    </td>
+    <td width="50%">
+      <img src="assets/nz-palettes.png" alt="NZ map palettes" width="100%">
+      <p align="center"><b>NZ Map Palettes</b><br>Cartographic colour ramps</p>
+    </td>
+  </tr>
+</table>
+
 ## Right now
 
 Deepening my web mapping stack: client-side terrain analysis, Node.js, and REST APIs. Always keen to collaborate on GIS and open-data projects.
