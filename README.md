@@ -59,7 +59,7 @@ A live colour palette explorer for New Zealand territorial authority maps.
 **Christchurch street slope map** (in progress)
 A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slope with Horn's method, no server round trips required.
 
-## Snapshot of my portfolio
+## Things I've built
 
 <table>
   <tr>
