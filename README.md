@@ -73,7 +73,7 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
     </td>
     <td width="50%">
       <p align="center">
-        <img src="powerlines-nz.png" alt="New Zealand power lines map" width="100%">
+        <img src="powerlines-nz.jpg" alt="New Zealand power lines map" width="100%">
         <br><b>NZ Power Lines</b><br>ArcGIS Pro + LINZ &amp; Transpower data
       </p>
     </td>
