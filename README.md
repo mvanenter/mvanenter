@@ -81,13 +81,18 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
   <tr>
     <td width="50%">
       <p align="center">
+        <img src="ruamahanga-rem.jpg" alt="Ruamahanga River relative elevation model" width="100%">
+        <br><b>Ruam&#257;hanga River REM</b><br>Python + LINZ LiDAR
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
         <a href="YOUR_SPICE_CABINET_URL">
           <img src="spice-cabinet.png" alt="Spice and Herb Cabinet app" width="100%">
         </a>
         <br><b>Spice &amp; Herb Cabinet</b><br>React + Vite PWA
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
