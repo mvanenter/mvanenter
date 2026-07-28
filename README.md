@@ -65,21 +65,19 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
   <tr>
     <td width="50%">
       <p align="center">
+        <a href="https://github.com/mvanenter/croatia-relief-map">
           <img src="https://raw.githubusercontent.com/mvanenter/croatia-relief-map/main/images/croatia_relief_final.png" alt="Croatia relief map" width="100%">
+        </a>
+        <br><b>Croatia Relief Map</b><br>Blender + Copernicus GLO-30 DEM
+      </p>
     </td>
     <td width="50%">
-      <img src="assets/steepest-streets.png" alt="Christchurch steepest streets analysis" width="100%">
-      <p align="center"><b>How Steep Is Your Street</b><br>ArcGIS Pro + LINZ 1m LiDAR</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="assets/spatial-sql.png" alt="Spatial SQL for councils" width="100%">
-      <p align="center"><b>Spatial SQL for Councils</b><br>PostGIS query reference</p>
-    </td>
-    <td width="50%">
-      <img src="assets/nz-palettes.png" alt="NZ map palettes" width="100%">
-      <p align="center"><b>NZ Map Palettes</b><br>Cartographic colour ramps</p>
+      <p align="center">
+        <a href="YOUR_SPICE_CABINET_URL">
+          <img src="spice-cabinet.png" alt="Spice and Herb Cabinet app" width="100%">
+        </a>
+        <br><b>Spice &amp; Herb Cabinet</b><br>React + Vite PWA
+      </p>
     </td>
   </tr>
 </table>
