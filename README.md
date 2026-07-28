@@ -64,7 +64,8 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/croatia-relief.png" alt="Croatia relief map rendered in Blender" width="100%">
+      <<p align="center">
+  <img src="images/croatia_relief_final.png" alt="Croatia relief map" width="600">" width="100%">
       <p align="center"><b>Croatia Relief Map</b><br>Blender + Copernicus GLO-30 DEM</p>
     </td>
     <td width="50%">
