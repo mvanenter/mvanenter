@@ -60,6 +60,7 @@ A live colour palette explorer for New Zealand territorial authority maps.
 A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slope with Horn's method, no server round trips required.
 
 ![Selected projects](banner1.png)
+
 <table>
   <tr>
     <td width="50%">
