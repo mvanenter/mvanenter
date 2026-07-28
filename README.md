@@ -64,9 +64,8 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
 <table>
   <tr>
     <td width="50%">
-      <<p align="center">
-  <img src="images/croatia_relief_final.png" alt="Croatia relief map" width="600">" width="100%">
-      <p align="center"><b>Croatia Relief Map</b><br>Blender + Copernicus GLO-30 DEM</p>
+      <p align="center">
+          <img src="images/croatia_relief_final.png" alt="Croatia relief map" width="100%">
     </td>
     <td width="50%">
       <img src="assets/steepest-streets.png" alt="Christchurch steepest streets analysis" width="100%">
