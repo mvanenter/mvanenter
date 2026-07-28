@@ -95,13 +95,20 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
   <tr>
     <td width="50%">
       <p align="center">
-        <a href="YOUR_SPICE_CABINET_URL">
+        <a href="https://fascinating-pika-7e6020.netlify.app/">
           <img src="spice-cabinet.png" alt="Spice and Herb Cabinet app" width="100%">
         </a>
         <br><b>Spice &amp; Herb Cabinet</b><br>React + Vite PWA
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://dreamy-flan-b440da.netlify.app/">
+          <img src="wine-whiskey.png" alt="Wine and Whiskey Cabinet app" width="100%">
+        </a>
+        <br><b>Wine &amp; Whiskey Cabinet</b><br>React + Vite PWA
+      </p>
+    </td>
   </tr>
 </table>
 
