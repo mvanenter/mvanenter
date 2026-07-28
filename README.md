@@ -23,7 +23,7 @@ My work sits where geospatial analysis meets software. I automate data cleaning 
 
 ## Tech I work with
 
-**GIS and spatial data**  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+**GIS and spatial data** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
