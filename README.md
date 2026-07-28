@@ -104,7 +104,7 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
     <td width="50%">
       <p align="center">
         <a href="https://dreamy-flan-b440da.netlify.app/">
-          <img src="wine-whiskey.png" alt="Wine and Whiskey Cabinet app" width="100%">
+          <img src="winewhiskey.png" alt="Wine and Whiskey Cabinet app" width="100%">
         </a>
         <br><b>Wine &amp; Whiskey Cabinet</b><br>React + Vite PWA
       </p>
