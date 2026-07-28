@@ -73,12 +73,21 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
     </td>
     <td width="50%">
       <p align="center">
+        <img src="powerlines-nz.png" alt="New Zealand power lines map" width="100%">
+        <br><b>NZ Power Lines</b><br>ArcGIS Pro + LINZ &amp; Transpower data
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
         <a href="YOUR_SPICE_CABINET_URL">
           <img src="spice-cabinet.png" alt="Spice and Herb Cabinet app" width="100%">
         </a>
         <br><b>Spice &amp; Herb Cabinet</b><br>React + Vite PWA
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
