@@ -61,8 +61,6 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
 
 ## Snapshot of my portfolio
 
-## Snapshot of my portfolio
-
 <table>
   <tr>
     <td width="50%">
