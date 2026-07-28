@@ -1,0 +1,12 @@
+<svg width="680" height="170" viewBox="0 0 680 170" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="680" height="170" rx="12" fill="#101418"/>
+  <g fill="#2A3138">
+    <circle cx="470" cy="30" r="2"/><circle cx="500" cy="30" r="2"/><circle cx="530" cy="30" r="2"/><circle cx="560" cy="30" r="2"/><circle cx="590" cy="30" r="2"/><circle cx="620" cy="30" r="2"/>
+    <circle cx="470" cy="60" r="2"/><circle cx="500" cy="60" r="2"/><circle cx="530" cy="60" r="2"/><circle cx="560" cy="60" r="2"/><circle cx="590" cy="60" r="2"/><circle cx="620" cy="60" r="2"/>
+    <circle cx="470" cy="90" r="2"/><circle cx="500" cy="90" r="2"/><circle cx="530" cy="90" r="2"/><circle cx="560" cy="90" r="2"/><circle cx="590" cy="90" r="2"/><circle cx="620" cy="90" r="2"/>
+    <circle cx="470" cy="120" r="2"/><circle cx="500" cy="120" r="2"/><circle cx="530" cy="120" r="2"/><circle cx="560" cy="120" r="2"/><circle cx="590" cy="120" r="2"/><circle cx="620" cy="120" r="2"/>
+    <circle cx="470" cy="150" r="2"/><circle cx="500" cy="150" r="2"/><circle cx="530" cy="150" r="2"/><circle cx="560" cy="150" r="2"/><circle cx="590" cy="150" r="2"/><circle cx="620" cy="150" r="2"/>
+  </g>
+  <text x="40" y="85" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#F5F5F2">Selected projects</text>
+  <text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8A929B" letter-spacing="3">A COLLECTION OF WORK</text>
+</svg>
