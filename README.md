@@ -112,7 +112,7 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
   </tr>
   <td width="50%">
       <p align="center">
-        <a href="https://github.com/mvanenter/croatia-relief-map">
+        <a href="https://github.com/mvanenter/meteorite.png">
           <img src="https://raw.githubusercontent.com/mvanenter/croatia-relief-map/main/images/croatia_relief_final.png" alt="Croatia relief map" width="100%">
         </a>
         <br><b>Croatia Relief Map</b><br>Blender + Copernicus GLO-30 DEM
