@@ -113,7 +113,7 @@ A fully client-side web map that reads LINZ Terrain-RGB tiles and calculates slo
  <td width="50%">
   <p align="center">
     <a href="https://github.com/mvanenter/Meteorite">
-      <img src="images/MeteoriteFind.png" alt="Meteorite Finds Global Distribution Map" width="100%">
+      <img src="Meteorite/MeteoriteFind.png" alt="Meteorite Finds Global Distribution Map" width="100%">
     </a>
     <br><b>Meteorite Finds</b><br>
     ArcGIS Pro + Python Hexagonal Binning
